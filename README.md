@@ -1,4 +1,4 @@
-# Air Quality Sensor Analysis
+# Air Quality Sensor Anomaly Detection
 
 This project analyzes air quality data using sensor readings from the UCI Air Quality dataset using Isolation Forest.
 
